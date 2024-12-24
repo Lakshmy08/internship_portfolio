@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5pxs;
+    color: aliceblue;
+}
+#n1{
+    padding:10px;
+}
+.nav1{
+    padding: 3px;
+    background-color: aliceblue;    
+}
+h1{
+    font-size: 40px;
+
+}
+#about{
+    background-image: url(image.jpg);
+    color:aliceblue;
+    background-size: contain; /* Ensures the whole image is visible */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center; /* Centers the image in the viewport */
+  background-color: black; /* Centers the image */
+  font-size: 17px;
+}
+#b1{
+    background-color: aliceblue;
+}
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+th{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: aliceblue;
+    color:black;
+
+}
+tr>th:hover{
+    background-color:black;
+    color:aliceblue;
+}
+tr>td:hover{
+    background-color:aliceblue;
+    color:black;
+}
+#exp{
+    color:aliceblue;
+   
+}
+#sp2{
+    display:flex;
+    justify-content: space-between;
+}
+legend{
+    padding: 3px;
+    font-size: 17px;
+    text-align: center;
+}
+#b2{
+    background-color: aliceblue;
+    color: black;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.corner1{
+    border-radius: 50%;
+    align-items: center;
+}
